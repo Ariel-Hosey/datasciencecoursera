@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 "##This is a markdown file"
+=======
+"##This is a markdown file"
+>>>>>>> b979fed34953779e8ce4e14ffea6c0e5a605cd7c
 =======
 "##This is a markdown file"
 >>>>>>> b979fed34953779e8ce4e14ffea6c0e5a605cd7c
